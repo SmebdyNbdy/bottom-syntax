@@ -2,8 +2,11 @@
 
 ### Installation
 
+### Dark-colored fork of Apex UI
+Suitable for automatic paring with Apex UI for automatic dark mode
+
 ```
-$ apm install apex-syntax
+$ apm install bottom-syntax
 ```
 
 ### Screenshot
@@ -13,14 +16,7 @@ $ apm install apex-syntax
 ## Links
 
 - [Apex UI](https://github.com/apex/apex-ui)
-
-## Badges
-
-[![](http://apex.sh/images/badge.svg)](https://apex.sh/ping/)
-![](https://img.shields.io/badge/license-MIT-blue.svg)
+- [Bottom Syntax](https://github.com/smebdy-nbdy/bottom-syntax)
 
 ---
-
-> [tjholowaychuk.com](http://tjholowaychuk.com) &nbsp;&middot;&nbsp;
-> GitHub [@tj](https://github.com/tj) &nbsp;&middot;&nbsp;
-> Twitter [@tjholowaychuk](https://twitter.com/tjholowaychuk)
+> GitHub [@SmebdyNbdy](https://github.com/smebdynbdy) &nbsp;&middot;&nbsp;
