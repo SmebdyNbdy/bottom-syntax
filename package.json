@@ -1,17 +1,19 @@
 {
-  "name": "apex-syntax",
+  "name": "bottom-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
-  "description": "Apex monochrome theme syntax inspired by iA Writer",
+  "version": "0.1.0",
+  "description": "Bottom monochrome dark theme syntax inspired by iA Writer and Apex",
   "keywords": [
     "apex",
     "monochrome",
     "syntax",
     "ia",
     "writer",
-    "light"
+    "dark",
+    "night",
+    "plain"
   ],
-  "repository": "https://github.com/apex/apex-syntax",
+  "repository": "https://github.com/SmebdyNbdy/bottom-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
